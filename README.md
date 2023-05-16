@@ -11,3 +11,6 @@ This repository contains the following files which attempt to explain the basic 
   
 3. K Nearest Neighbor Classifier  
   a. 03_KNN  
+  
+4. Support Vector Machine  
+  a. 04_SVM  

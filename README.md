@@ -17,3 +17,6 @@ This repository contains the following files which attempt to explain the basic 
   
 5. Convolutional Neural Network   
   a. 05_CNN  
+  
+6. Convolutional Neural Network   
+  a. 06_RNN   

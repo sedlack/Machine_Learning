@@ -14,3 +14,6 @@ This repository contains the following files which attempt to explain the basic 
   
 4. Support Vector Machine  
   a. 04_SVM  
+  
+5. Convolutional Neural Network   
+  a. 05_CNN  

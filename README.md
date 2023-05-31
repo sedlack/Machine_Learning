@@ -20,3 +20,6 @@ This repository contains the following files which attempt to explain the basic 
   
 6. Recurrent Neural Network   
   a. 06_RNN   
+  
+7. Feature Transformation - Autoencoder & PCA  
+  a. 07_Feature_Transformation  
